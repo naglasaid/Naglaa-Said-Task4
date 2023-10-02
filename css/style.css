@@ -41,6 +41,8 @@
     height: 60px ;
     margin-left: 150px;
     float: left;
+    border-radius: 20%;
+    /* border: 1px solid #d4c1ab; */
 }
 
 .list {
