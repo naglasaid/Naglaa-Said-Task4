@@ -136,8 +136,7 @@
 .MainpageStyle{
     width: 100%;
     height:100vh;
- 
-    background: url(../images/5.JPG) no-repeat;
+    background:url(../images/5.jpg) no-repeat;
     background-position:center;
     background-size:cover;
    
@@ -276,7 +275,7 @@ letter-spacing: 2px;
      margin: auto;
      margin-top: 50px;
      margin-bottom: 50px;
-     background: url(../Images/Main-photo3.jpeg)  ;
+     background:url(../Images/Main-photo3.jpeg)  ;
      background-position:center;
     background-size:cover;
    text-align: center;
@@ -767,7 +766,7 @@ margin-top: 10px;
     border-right:35px solid rgba(243, 238, 238, 0.747);
     outline: 15px solid #adb9ca;
     
-    background: url(../images/Living181.jpg);
+    background:url(../images/Living181.jpg);
     background-size: cover;
     background-position: center;  
 }
@@ -978,7 +977,8 @@ font-style: italic;
  height:350;
 position: relative;
 
-background: url(../images/Living14.jpg);
+background:url(../images/Living14.jpg);
+
 background-size: cover;
    
 background-attachment: fixed;
@@ -1093,25 +1093,9 @@ z-index: 5;
 }
 
 
-.offer-item:hover{
-    /* border-right: 5px solid #a1949d;
-    border-bottom: 5px solid #a1949d;
-    outline: 1px solid #f7dfdf;
-    outline-offset: 5px; */
-    
- 
-}
 
-.offer-item i{
 
-    /* position: absolute;
-    left:5;
-    top:15;
-    font-size: 70px;
-    margin-right: 10px;
-    color:#fc9693; */
-    
-    }
+
     
     
     .offer-item h2{
