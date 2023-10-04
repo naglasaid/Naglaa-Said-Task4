@@ -187,7 +187,7 @@
     font-size: 40px;
     font-weight: 900;
     margin-bottom: 20px;
-    /* font-style: italic; */
+    font-style: italic;
     text-transform:uppercase;
     letter-spacing: 1px;
 
@@ -424,12 +424,12 @@ border-bottom-width: 5px;
     
    /* background-color: white; */
    color: rgba(0,0,0,1);
-    font-weight: bold;
+    /* font-weight: bold; */
     text-align: center;
-    line-height: 35px;
+    line-height: 37px;
     font-size: 16;
-    letter-spacing: 1px;
-    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* letter-spacing: 1px; */
+    font-family:'Times New Roman', Times, serif;
     border-radius: 20px;
    padding: 15px 15px 0px 15px;
    margin-bottom: 12px;
@@ -863,8 +863,8 @@ z-index: 19;
     border-radius: 50%;
     border-left:35px solid rgba(243, 238, 238, 0.747);
     border-right:35px solid rgba(243, 238, 238, 0.747);
-    /* outline: 5px solid #adb9ca; */
-    outline:15px solid rgba(202, 198, 198,.3);
+    outline: 15px solid #adb9ca;
+    /* outline:15px solid rgba(202, 198, 198,.3); */
     background:url(../Images/Living181.jpg);
     background-size: cover;
     background-position: center;  
